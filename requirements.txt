@@ -1,0 +1,9 @@
+matplotlib
+yfinance
+statistics
+pandas
+numpy
+sklearn
+voila
+pyodbc
+

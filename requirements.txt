@@ -5,5 +5,4 @@ pandas
 numpy
 sklearn
 voila
-pyodbc
 
